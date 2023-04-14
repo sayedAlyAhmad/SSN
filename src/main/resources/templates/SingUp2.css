@@ -1,0 +1,37 @@
+h1{
+    margin: 20px;
+}
+
+.one{ width: 180px;
+    height: 40px;
+    margin: 10px 30px 30px 50px ;
+}
+.a{ margin: 15px;
+    font-size: 20px;}
+.c{
+    width: 400px;
+    height: 50px;
+    margin: 10px 40px 30px 3px ; 
+    
+}
+.d{
+    width: 220px;
+    height: 50px;
+    margin: 15px 15px 30px 80px;
+}
+.x{ width: 220px;
+    height: 50px;
+    margin: 15px;
+    background: burlywood;}
+.m{ width: 400px;
+    height: 50px;
+    margin: 10px 40px 30px 75px ;}
+.n{ width: 400px;
+    height: 50px;
+    margin: 10px 40px 30px 50px ;
+}
+.o{
+    width: 400px;
+    height: 50px;
+    margin: 10px 40px 30px 105px ;
+}
